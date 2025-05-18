@@ -20,5 +20,6 @@ On larger screens: the Login button appears beside "Don't have an account? Signu
 
 On small screens (mobile): the layout stacks vertically for better readability.
 🧑‍💻 Author
-Created by 
+Created by https://github.com/Indhuja3005/Indhuja-ravi.git
+Live Demo
 
